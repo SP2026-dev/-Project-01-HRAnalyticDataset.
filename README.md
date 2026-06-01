@@ -61,6 +61,6 @@ The organization invested ₹17.65M in employee training. Management should trac
 
 ## Author
 ## Sangeet Pandit
-## B.Tech (Information Technology)
+## B.Tech (Information Technology), MBA HR
 ## Aspiring Data Analyst | MIS Executive
 Aspiring Data Analyst | MIS Executive
