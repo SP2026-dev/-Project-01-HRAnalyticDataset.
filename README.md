@@ -30,7 +30,7 @@ Analysis Performed:
 - Excel Dashboard
 - Power BI Dashboard
 
-  Business Recommendations:
+Business Recommendations:
 Based on the analysis, the following recommendations can help improve workforce management and business performance:
 
 i) Strengthen Hiring Strategy
